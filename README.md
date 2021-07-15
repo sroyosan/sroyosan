@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sroyosan
+- 👀 I’m interested in reactive programming, clean architectures and more..
+- 🌱 I’m currently learning ... too many things, trying to keep up with the latest trends in software development.
